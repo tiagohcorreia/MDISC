@@ -1,0 +1,18 @@
+ParqueInfantil,Macieirinha,10.0
+Miradouro,Fontaine,8.0
+Miradouro,Torreao,9.0
+AP,Biblioteca,10.0
+AP,Escadas1,10.0
+AP,Teatro,7.0
+AP,Lago,9.0
+AP,Topo,9.0
+AP,Pavilhao,5.0
+Escadas1,Escadas2,3.0
+Escadas2,CasaRoseiral,4.0
+Escadas2,Sentimentos,7.0
+Escadas2,JardimRoseiral,3.0
+Escadas2,Escadas3,5.0
+Topo,ParqueInfantil,7.0
+Topo,Capela,4.0
+Topo,Miradouro,3.0
+Total Cost: 0.0

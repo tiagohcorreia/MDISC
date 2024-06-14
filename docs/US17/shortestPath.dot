@@ -1,0 +1,19 @@
+graph G {
+	ParqueInfantil -- Macieirinha [label="10.0"];
+	Miradouro -- Fontaine [label="8.0"];
+	Miradouro -- Torreao [label="9.0"];
+	AP -- Biblioteca [label="10.0"];
+	AP -- Escadas1 [label="10.0"];
+	AP -- Teatro [label="7.0"];
+	AP -- Lago [label="9.0"];
+	AP -- Topo [label="9.0"];
+	AP -- Pavilhao [label="5.0"];
+	Escadas1 -- Escadas2 [label="3.0"];
+	Escadas2 -- CasaRoseiral [label="4.0"];
+	Escadas2 -- Sentimentos [label="7.0"];
+	Escadas2 -- JardimRoseiral [label="3.0"];
+	Escadas2 -- Escadas3 [label="5.0"];
+	Topo -- ParqueInfantil [label="7.0"];
+	Topo -- Capela [label="4.0"];
+	Topo -- Miradouro [label="3.0"];
+}
